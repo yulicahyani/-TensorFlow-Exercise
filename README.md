@@ -1,3 +1,2 @@
-# TensorFlow-Exercise
-- Simulasi Ujian Sertifikasi Tensorflow Dicoding
-- Machine Learning assignment
+# Tensorflow Certification Exam Simulation Dicoding
+# Machine Learning Assignment
